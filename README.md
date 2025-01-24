@@ -65,7 +65,7 @@ Cumulative Billing = SUMX('Billing', 'Billing'[Amount])
 
 ## Key Insights
 1. **Most Frequent Procedures**: The analysis showed X-rays, CT scans, and MRI as the most common procedures.
-2. **Seasonal Trends**: Fall recorded the highest number of appointments, while Winter had the least.
+2. **Seasonal Trends**: Winter recorded the highest number of appointments, while Fall had the least.
 3. **Doctors’ Performance**: Obstetric Anesthesiologists and Ophthalmologists had the highest procedure counts.
 4. **High-Value Patients**: Identified top 10 patients contributing significantly to cumulative revenue.
 
@@ -146,8 +146,7 @@ I welcome all feedback and suggestions to improve this project. Feel free to rea
 ---
 
 ### Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **Medium**: [Your Medium Profile Link]
-- **GitHub**: [Your GitHub Profile Link]
+- **LinkedIn**: https://www.linkedin.com/in/muntari-muhammad-abubakar-6057a4186?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHdPboUElTiWYvP2LwangyQ%3D%3D
+- **GitHub**: 
 
 
