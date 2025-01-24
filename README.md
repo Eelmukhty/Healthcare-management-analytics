@@ -147,6 +147,6 @@ I welcome all feedback and suggestions to improve this project. Feel free to rea
 
 ### Connect with Me
 - **LinkedIn**: https://www.linkedin.com/in/muntari-muhammad-abubakar-6057a4186?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHdPboUElTiWYvP2LwangyQ%3D%3D
-- **GitHub**: 
+- **GitHub**: https://github.com/Eelmukhty/Healthcare-management-analytics/blob/main/README.md
 
 
